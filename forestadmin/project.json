@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "betrybe/sd-0x-block5-project-color-guess",
+    "name": "tryber/sd-05-block5-project-color-guess",
     "description": "Projeto de HTML, CSS & JavaScript.",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-06-03 17:10:00",
     "requirements": [
       {
         "description": "A página deve possuir um título centralizado com o nome do seu jogo",
